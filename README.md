@@ -1,8 +1,8 @@
-<h1>👋 Hi, I’m @HindBeast</h1>
+<h1>👋 Hi, I’m Marcus.</h1>
 
-- 👀 I’m interested in WordPress builds, Rugby League, Heavy Metal and My Family.
-- 🌱 I’m currently learning WordPress, Javascript, Greensock and Php.
-- 💞️ I’m not looking to collaborate on any project at the moment (I'm just getting set up).
+- 👀 I’m interested in WordPress builds and eventually web application builds.
+- 🌱 I’m currently learning and playing with WordPress, Javascript, Greensock and Php.
+- 💞️ I will soon be looking to collaborate on any project.
 - 📫 How to reach me https://hindbeast.wordpress.com and https://mediabadger.uk.
 
 <!---
