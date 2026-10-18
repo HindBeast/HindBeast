@@ -1,11 +1,13 @@
 <h1>👋 Hi, I’m Marcus.</h1>
 
-- 👀 I’m interested in WordPress builds and eventually web application builds.
+## Let's make this quick:
+
+- 👀 I’m interested in WordPress theme and Gutenberg block builds.
 - 🌱 I’m currently playing a lot with WordPress, Javascript, Greensock, Php & React.
 - 💞️ I will soon be looking to collaborate on any project.
 - 📫 Reach me on: https://marcushind.uk.
 
-![Web](https://marcushind.uk)
+## More coming soon...
 
 <!---
 HindBeast/HindBeast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
