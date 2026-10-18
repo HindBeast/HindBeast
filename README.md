@@ -5,6 +5,8 @@
 - 💞️ I will soon be looking to collaborate on any project.
 - 📫 Reach me on: https://marcushind.uk.
 
+[Web](https://marcushind.uk)
+
 <!---
 HindBeast/HindBeast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
